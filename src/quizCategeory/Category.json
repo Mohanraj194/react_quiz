@@ -1,0 +1,28 @@
+{
+    "data": [
+      {
+        "catName": "GK",
+        "id": 1
+      },
+      {
+        
+        "catName": "Java",
+        "id": 2
+      },
+      {
+        
+        "catName": "PHP",
+        "id": 3
+      },
+      {
+        
+        "catName": "JAVASCRIPT",
+        "id": 4
+      },
+      {
+        
+        "catName": "REACT",
+        "id": 5
+      }
+    ]
+  }

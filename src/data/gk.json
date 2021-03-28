@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "question": "National Income estimates in India are prepared by",
+        "choices": ["Planning Commission", "Reserve Bank of India", "Central statistical", "Indian statistical Institute"],
+        "answer": "Central statistical"
+      },
+      {
+        "question": "MS-Word is an example of",
+        "choices": ["An operating system", "A processing device", " Application software", "An input device"],
+        "answer": " Application software"
+      },
+      {
+        "question": "The staple food of the Vedic Aryan was",
+        "choices": ["Barley and rice", "Milk and its products", "Rice and pulses", "Vegetables and fruits"],
+        "answer": "Milk and its products"
+      },
+      {
+        "question": "Ctrl, Shift and Alt are called___Keys",
+        "choices": ["modifier", "function", "alphanumeric", "adjustment"],
+        "answer": "modifier"
+      },
+      {
+        "question": "The tropic of cancer does not pass through which of these Indian states ?",
+        "choices": ["Madhya Pradesh", "West Bengal", "Rajasthan", "Odisha"],
+        "answer": "Odisha"
+      },
+      {
+        "question": "The purest form of iron is",
+        "choices": ["wrought iron", "steel", "pig iron", "nickel steel"],
+        "answer": "wrought iron"
+      },
+      {
+        "question": "Fathometer is used to measure",
+        "choices": ["Earthquakes", "Rainfall", "Ocean depth", "Sound intensity"],
+        "answer": "Ocean depth"
+      },
+      {
+        "question": "The working principle of a washing machine is",
+        "choices": ["reverse osmosis", "diffusion", "centrifugation", "dialysis"],
+        "answer": "centrifugation"
+      },
+      {
+        "question": "A computer cannot 'boot' if it does not have the",
+        "choices": ["Compiler", "Loader", "Operating system", "Assembler"],
+        "answer": "Operating system"
+      }
+    ]
+  }

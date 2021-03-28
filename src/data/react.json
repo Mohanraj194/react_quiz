@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "question": "What is ReactJS?",
+        "choices": ["Server-side Framework", "User-interface framework", "Both", "None"],
+        "answer": "Both"
+      },
+      {
+        "question": "What are the limitations of ReactJS?",
+        "choices": ["React is only for view layer of the app so we still need the help of other technologies to get a complete tooling set for development", "React is using inline templating and JSX. This can seem awkward to some developers", "All of these", "The library of react is too large"],
+        "answer": "All of these"
+      },
+      {
+        "question": "How can you access the state of a component from inside of a member function?",
+        "choices": ["this.getState()", "this.prototype.stateValue", "this.state", "this.values"],
+        "answer": "this.values"
+      },
+      {
+        "question": "Props are __________ into other components",
+        "choices": ["Injected", "Methods", "Both A and B", "All of these"],
+        "answer": "Methods"
+      },
+      {
+        "question": "Which of the following API is a MUST for every ReactJS component?",
+        "choices": ["getInitialState", "render", "renderComponent", "None"],
+        "answer": "renderComponent"
+      },
+      {
+        "question": "At the highest level, React components have lifecycle events that fall into",
+        "choices": ["Initialization", "State/Property Updates", "Destruction", "All of these"],
+        "answer": "All of these"
+      },
+      {
+        "question": "What are the advantages of React JS?",
+        "choices": ["React can be used on client and as well as server side too", "Using React increases readability and makes maintainability easier. Component, Data patterns improves readability and thus makes it easier for manitaining larger apps", "React can be used with any other framework (Backbone.js, Angular.js) as it is only a view layer", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "What does the “webpack” command do?",
+        "choices": ["Transpiles all the Javascript down into one file", "Runs react local development server", "Both A and B", "None"],
+        "answer": "Transpiles all the Javascript down into one file"
+      },
+      {
+        "question": "What is a react.js in MVC?",
+        "choices": ["Controller", "Middleware", "Model", "Router"],
+        "answer": "Controller"
+      }
+    ]
+  }

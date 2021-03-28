@@ -1,0 +1,49 @@
+{
+    "data": [
+      {
+        "question": "Which of the following is correct about PHP?",
+        "choices": ["PHP is a recursive acronym for 'PHP: Hypertext Preprocessor'", "PHP is a server side scripting language that is embedded in HTML", "It is used to manage dynamic content, databases, session tracking, even build entire e-commerce sites", "All of the above"],
+        "answer": "All of the above"
+      },
+      {
+        "question": "Which of the following type of variables are whole numbers, without a decimal point, like 4195?",
+        "choices": ["Integers", "Doubles", "Booleans", "Strings"],
+        "answer": "Integers"
+      },
+      {
+        "question": "Which of the following is correct about NULL?",
+        "choices": ["A variable that has been assigned NULL evaluates to FALSE in a Boolean context", "A variable that has been assigned NULL returns FALSE when tested with IsSet() function", "Both of the above", "None of the above"],
+        "answer": "Both of the above"
+      },
+      {
+        "question": " Which of the following keyword terminates the for loop or switch statement and transfers execution to the statement immediately following the for loop or switch?",
+        "choices": ["break", "continue"],
+        "answer": "break"
+      },
+      {
+        "question": "Which of the following is used to get information sent via get method in PHP?",
+        "choices": ["$_GET", "$GET", "$GETREQUEST", "None of the above"],
+        "answer": "$_GET"
+      },
+      {
+        "question": "If there is any problem in loading a file then the include() function generates a warning but the script will continue execution.",
+        "choices": ["true", "false"],
+        "answer": "true"
+      },
+      {
+        "question": "Which of the following is used to check that a cookie is set or not?",
+        "choices": ["getcookie() function", "$_COOKIE variable", "isset() function", "None of the above"],
+        "answer": "isset() function"
+      },
+      {
+        "question": "Which of the following provides access to the uploaded file in the temporary directory on the web server?",
+        "choices": ["$_FILES['file']['tmp_name']", "$_FILES['file']['name']", "$_FILES['file']['size']", "$_FILES['file']['type']"],
+        "answer": "$_FILES['file']['tmp_name']"
+      },
+      {
+        "question": "Which of the following method of Exception class retrieve the error message when error occured?",
+        "choices": ["getMessage()", "getCode()", "getFile()", "getLine()"],
+        "answer": "getMessage()"
+      }
+    ]
+  }
