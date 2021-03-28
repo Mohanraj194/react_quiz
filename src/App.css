@@ -35,6 +35,11 @@ h1, h2, h3, h4, h5, h6 {
   width: 100%;
   text-align: center;
 } */
+@media only screen and (max-width: 1024px) {
+  .App .cat{
+    display: block!important;
+  }
+}
 .App .cat{
   display: flex;
 }
